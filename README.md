@@ -1,14 +1,14 @@
-# 🎯 Trivia Quiz App
+#  Trivia Quiz App
 
 A responsive React-based quiz app built with Vite and Tailwind CSS. It fetches trivia questions from the Open Trivia Database API and presents them one at a time with score tracking and a countdown timer.
 
-## 🔗 Live Demo
+##  Live Demo
 
 👉 [https://quiz-app-sepia-iota.vercel.app/](#) 
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This quiz app allows users to:
 
@@ -23,7 +23,7 @@ This quiz app allows users to:
 
 ---
 
-## ⚙️ Installation Instructions
+## Installation Instructions
 
 Clone the repo and run locally:
 
